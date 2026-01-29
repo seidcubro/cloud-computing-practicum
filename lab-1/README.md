@@ -97,7 +97,3 @@ WSL (Ubuntu)
 
 
 ---
-
-This README is **100% appropriate for grading** and **clean enough for a portfolio**.
-- prep **Lab 2** so it doesn’t turn into chaos again
-::contentReference[oaicite:0]{index=0}
